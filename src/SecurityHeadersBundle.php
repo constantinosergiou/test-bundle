@@ -8,4 +8,7 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
  */
 class SecurityHeadersBundle extends Bundle
 {
+
+
+  
 }
